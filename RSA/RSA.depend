@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657002256 source:d:\小学期c语言\rsa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"D:/小学期C语言/RSA2/.H"
+
+1656993290 d:\小学期c语言\rsa2\.h
+
